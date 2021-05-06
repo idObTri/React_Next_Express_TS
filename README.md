@@ -1,5 +1,5 @@
 # React_Next_Express_TS
-Template for React + Next + Express + TypeScript
+Template for React + Next + Express + TypeScript (+ MongoDB)
 
 # How to use
 ## Install
@@ -41,4 +41,10 @@ $ npm run build:next
 ```
 
 ## Enable MongoDB (mongoose)
-Delete comment out in server/index.ts
+
+```
+$ npm i mongoose
+```
+
+and  
+Delete comment-out in server/index.ts
